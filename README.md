@@ -6,6 +6,7 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
+
 This is based on Christopher Trudeau 's RealPython Course Structuring a Python Application (Overview), can be found here:
 https://realpython.com/lessons/structuring-python-application/ 
 
